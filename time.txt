@@ -1,0 +1,11 @@
+Setup
+	4 Hr
+
+Search Page:
+
+Search page with search button : 1 Hr
+Grid	: 1 Hr
+Links in Grid : 2 Hr
+
+Detail Page:
+
