@@ -11,6 +11,8 @@ describe('Protractor Demo App 2', function() {
     browser.get('http://juliemr.github.io/protractor-demo/');
     element(by.model('first')).sendKeys(1);
     element(by.model('second')).sendKeys(2);
+	
+	debugger;
 
     element(by.id('gobutton')).click();
 
