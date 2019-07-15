@@ -9,3 +9,5 @@ Links in Grid : 2 Hr
 
 Detail Page:
 
+Load Data : 4 Hr
+Button Click : 1 Hr
