@@ -68,6 +68,13 @@ import sklearn
 from sklearn.cross_validation import train_test_split
 
 
+# In[38]:
+
+target_column = ['Defaulter'] 
+predictors = list(set(list(data.columns))-set(target_column))
+predictors
+
+
 # In[34]:
 
 df_train, df_test = train_test_split(data, train_size=0.8, test_size=0.2)
