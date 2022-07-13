@@ -1,6 +1,0 @@
->webdriver-manager start
-[07:50:06] I/start - java -Dwebdriver.chrome.driver=C:\Users\Pramod\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium\chromedriver_75.0.3770.8.exe -Dwebdriver.gecko.driver=C:\Users\Pramod\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium\geckodriver-v0.24.0.exe -jar C:\Users\Pramod\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium\selenium-server-standalone-3.141.59.jar -port 4444
-[07:50:06] I/start - seleniumProcess.pid: 5452
-'java' is not recognized as an internal or external command,
-operable program or batch file.
-[07:50:06] I/start - Selenium Standalone has exited with code 1
